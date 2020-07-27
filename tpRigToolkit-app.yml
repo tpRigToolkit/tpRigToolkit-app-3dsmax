@@ -10,3 +10,9 @@ supported_versions:
 tools:
   - id: "tpRigToolkit-tools-controlrig"
     name: "Control Rig"
+    supported_versions:
+      - "2017"
+      - "2018"
+      - "2019"
+      - "2020"
+

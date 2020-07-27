@@ -1,0 +1,12 @@
+name: "Autodesk 3ds Max"
+short_name: "3ds Max"
+
+supported_versions:
+  - "2017"
+  - "2018"
+  - "2019"
+  - "2020"
+
+tools:
+  - id: "tpRigToolkit-tools-controlrig"
+    name: "Control Rig"

@@ -1,6 +1,6 @@
 name: "Autodesk 3ds Max"
 short_name: "3ds Max"
-
+default_version: "2019"
 supported_versions:
   - "2017"
   - "2018"

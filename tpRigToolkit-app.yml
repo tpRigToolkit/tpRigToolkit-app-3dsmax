@@ -2,15 +2,14 @@ name: "Autodesk 3ds Max"
 short_name: "3ds Max"
 default_version: "2018"
 supported_versions:
-  - "2018"
-  - "2020"
+  2018:
+    python: "2.7.12"
+  2020:
+    python: "2.7.15"
 
 tools:
   - id: "tpRigToolkit-tools-controlrig"
     name: "Control Rig"
     supported_versions:
-      2018:
-        python: "2.7.12"
-      2020:
-        python: "2.7.15"
-
+      - "2018"
+      - "2020"
